@@ -1,0 +1,5 @@
+//Custom Loadout
+DefaultMagazines = ["ItemBandage","ItemBandage","ItemBandage","ItemPainkiller","ItemPainkiller","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","15Rnd_9x19_M9SD","ItemFuelBarrelEmpty","ItemGoldBar"]; 
+DefaultWeapons = ["ItemCompass","ItemMap","Binocular_Vector","ItemGPS","ItemFuelPump","M9SD"]; 
+DefaultBackpack = "DZ_ALICE_Pack_EP1"; 
+DefaultBackpackWeapon = "";
