@@ -3,7 +3,11 @@ ArmA2EpochSauerland
 
 ArmA2OA - Epoch - Sauerland - Serverfiles
 
-Following add-ons are partly included or changed to my own needs:
+Server/Clientfiles vanilla:
+http://epochmod.com/a2dayzepoch.php 
+
+
+Following add-ons are partly included or changed to my own/server needs:
 (there is no licence rights/lefts on my side for the initial code)
 
 ESS by ebay 
