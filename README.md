@@ -28,3 +28,4 @@ If you got questions feel free to ask, but as I said, no guaranteed support!!
 
 for my mysql-scripts you do need: 
 http://dev.mysql.com/downloads/utilities/
+http://downloads.sourceforge.net/sevenzip/7z920-x64.msi
