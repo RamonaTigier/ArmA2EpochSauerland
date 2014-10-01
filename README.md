@@ -21,3 +21,10 @@ HUD by Zupa & AsReMix
 
 MF-Tow by matt_d_rat 
 - http://epochmod.com/forum/index.php?/topic/10673-mf-tow-a-towing-script-for-dayz-epoch-mod/
+
+
+There is no guarantee in using my scripts nor any support if your server fails. 
+If you got questions feel free to ask, but as I said, no guaranteed support!!
+
+for my mysql-scripts you do need: 
+http://dev.mysql.com/downloads/utilities/
