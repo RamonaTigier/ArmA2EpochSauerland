@@ -33,3 +33,8 @@ Vehicle Service Point by Axe Cop
 
 There is no guarantee in using my scripts nor any support if your server fails. 
 If you got questions feel free to ask, but as I said, no guaranteed support!!
+
+
+Changelog
+=========
+v0.2.0.1 added Service Point
