@@ -25,8 +25,3 @@ MF-Tow by matt_d_rat
 
 There is no guarantee in using my scripts nor any support if your server fails. 
 If you got questions feel free to ask, but as I said, no guaranteed support!!
-
-for my backup_database you do need: 
-http://dev.mysql.com/downloads/utilities/
-http://downloads.sourceforge.net/sevenzip/7z920-x64.msi or x86 if not running 64-bit environment
-Powershell installed
