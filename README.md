@@ -22,6 +22,12 @@ HUD by Zupa & AsReMix
 MF-Tow by matt_d_rat 
 - http://epochmod.com/forum/index.php?/topic/10673-mf-tow-a-towing-script-for-dayz-epoch-mod/
 
+LoadScreen Fix by Zupa 
+- http://epochmod.com/forum/index.php?/topic/17404-fixed-players-stuck-at-loading-screen-with-soundaudio/?p=131584
+
+Better Load Messages by Zupa 
+- http://epochmod.com/forum/index.php?/topic/18702-release-better-load-messages-wip/
+- 
 
 There is no guarantee in using my scripts nor any support if your server fails. 
 If you got questions feel free to ask, but as I said, no guaranteed support!!
