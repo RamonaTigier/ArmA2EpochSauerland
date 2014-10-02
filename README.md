@@ -27,7 +27,9 @@ LoadScreen Fix by Zupa
 
 Better Load Messages by Zupa 
 - http://epochmod.com/forum/index.php?/topic/18702-release-better-load-messages-wip/
-- 
+
+Vehicle Service Point by Axe Cop
+- http://epochmod.com/forum/index.php?/topic/3935-release-vehicle-service-point-refuel-repair-rearm-script/
 
 There is no guarantee in using my scripts nor any support if your server fails. 
 If you got questions feel free to ask, but as I said, no guaranteed support!!

@@ -1328,8 +1328,8 @@ class Mission
 			age="UNKNOWN";
 			name="Seedorf";
 			expCond="(player distance Seedorf) < 150;";
-			expActiv="[""Boat Vendor"",true,""enter""]; placevault = false;";
-			expDesactiv="[""Boat Vendor"",true,""leave""]; placevault = true;";
+			expActiv="TitleText[""Du betrittst die Seedorf safe Zone"",""PLAIN DOWN""]; placevault = false;";
+            expDesactiv="TitleText[""Du verlaesst die Seedorf safe Zone"",""PLAIN DOWN""]; placevault = true;";
 			class Effects
 			{
 			};

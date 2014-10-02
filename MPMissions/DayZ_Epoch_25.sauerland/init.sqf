@@ -91,6 +91,9 @@ if (!isDedicated) then {
 
 	//Lights
 	//[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
+	
+	// Autorepair, autorefuel autorearm at servicepoint
+	
 };
 #include "\z\addons\dayz_code\system\REsec.sqf"
 //Start Dynamic Weather
