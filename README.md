@@ -1,7 +1,7 @@
 ArmA2EpochSauerland
 ===================
 
-ArmA2OA - Epoch - Sauerland - Serverfiles
+ArmA2OA - Epoch - Sauerland - Serverfiles(only changed files)
 
 Server/Clientfiles vanilla:
 http://epochmod.com/a2dayzepoch.php 
