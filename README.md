@@ -3,7 +3,11 @@ ArmA2EpochSauerland
 
 ArmA2OA - Epoch - Sauerland - Serverfiles
 
-Following add-ons are partly included or changed to my own needs:
+Server/Clientfiles vanilla:
+http://epochmod.com/a2dayzepoch.php 
+
+
+Following add-ons are partly included or changed to my own/server needs:
 (there is no licence rights/lefts on my side for the initial code)
 
 ESS by ebay 
@@ -17,3 +21,11 @@ HUD by Zupa & AsReMix
 
 MF-Tow by matt_d_rat 
 - http://epochmod.com/forum/index.php?/topic/10673-mf-tow-a-towing-script-for-dayz-epoch-mod/
+
+
+There is no guarantee in using my scripts nor any support if your server fails. 
+If you got questions feel free to ask, but as I said, no guaranteed support!!
+
+for my mysql-scripts you do need: 
+http://dev.mysql.com/downloads/utilities/
+http://downloads.sourceforge.net/sevenzip/7z920-x64.msi
